@@ -1,7 +1,7 @@
-base-devel 
-libx11 libxft 
-libxinerama 
-freetype2 
+base-devel
+libx11 libxft
+libxinerama
+freetype2
 fontconfig
 nitrogen
 picom
