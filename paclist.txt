@@ -10,3 +10,15 @@ alacritty
 xorg
 xorg-server
 xorg-xinit
+ttf-jetbrains-mono-nerd
+ttf-roboto
+ttf-fira-sans
+fish
+git
+nano
+vim
+firefox
+alsa-utils
+playerctl
+pamixer
+ttf-font-awesome
