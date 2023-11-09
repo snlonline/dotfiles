@@ -1,5 +1,6 @@
 base-devel
-libx11 libxft
+libx11
+libxft
 libxinerama
 freetype2
 fontconfig
