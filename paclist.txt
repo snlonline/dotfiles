@@ -22,3 +22,5 @@ alsa-utils
 playerctl
 pamixer
 ttf-font-awesome
+alsa-lib
+acpilight
