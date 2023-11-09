@@ -1,0 +1,12 @@
+base-devel 
+libx11 libxft 
+libxinerama 
+freetype2 
+fontconfig
+nitrogen
+picom
+lxappearance
+alacritty
+xorg
+xorg-server
+xorg-xinit
