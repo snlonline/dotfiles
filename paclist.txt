@@ -27,3 +27,6 @@ alsa-lib
 acpilight
 code
 thunar
+scrot
+gvfs
+pulseaudio
