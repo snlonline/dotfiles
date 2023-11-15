@@ -30,3 +30,4 @@ thunar
 scrot
 gvfs
 pulseaudio
+power-profiles-daemon
